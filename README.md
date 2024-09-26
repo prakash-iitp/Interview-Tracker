@@ -74,6 +74,5 @@ A user added question or experience needs admin approval to be displayed in the 
 
 ![](/website/adminpanel.png)
 
-# [Certificate of Appreciation](https://drive.google.com/file/d/1QLo9nh_SHCCnCU0Qx3LckVIQv6-YaOi_/view?usp=sharing)
 
 
